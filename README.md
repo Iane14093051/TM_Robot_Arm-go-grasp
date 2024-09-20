@@ -21,4 +21,8 @@ This project enables the robotic arm to receive grasp poses, move to specific lo
 
 * Ubuntu 20.04
 
+## Usage
 
+```bash
+$ python tm_go_grasp.py
+```
